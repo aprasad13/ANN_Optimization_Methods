@@ -5,7 +5,7 @@ In this notebook, I have implemented some optimization methods that can speed up
 ### I have implemented following optimization algorithms:
 - <Strong>Mini-Batch Gradient descent</strong>
 - <Strong>Momentum</strong> (Momentum takes into account the past gradients to smooth out the update. Using momentum can reduce these oscillations)
-- <Strong>Adam</strong> (Adam is one of the most effective optimization algorithms for training neural networks. It combines ideas from RMSProp (described in lecture) and Momentum)
+- <Strong>Adam (Adaptive Moment Estimation)</strong> (Adam is one of the most effective optimization algorithms for training neural networks. It combines ideas from RMSProp (described in lecture) and Momentum)
 
 I have used sklearn in-built "moons" dataset to test the above optimization methods.
 
