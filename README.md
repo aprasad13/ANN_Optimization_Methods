@@ -1,8 +1,8 @@
 # Deep_Learning_Optimization_Methods
 
-In this notebook, I have implemented some optimization methods that can speed up learning and perhaps even get us to a better final value for the cost function. Having a good optimization algorithm can be the difference between waiting days vs. just a few hours to get a good result.
+In this notebook, I have implemented some optimization methods from scratch that can speed up learning and perhaps even get us to a better final value for the cost function. Having a good optimization algorithm can be the difference between waiting days vs. just a few hours to get a good result.
 
-### I have implemented following optimization algorithms:
+### Implemented following optimization algorithms (from scratch):
 - <Strong>Mini-Batch Gradient descent</strong>
 - <Strong>Momentum</strong> (Momentum takes into account the past gradients to smooth out the update. Using momentum can reduce these oscillations)
 - <Strong>Adam (Adaptive Moment Estimation)</strong> (Adam is one of the most effective optimization algorithms for training neural networks. It combines ideas from RMSProp (described in lecture) and Momentum)
