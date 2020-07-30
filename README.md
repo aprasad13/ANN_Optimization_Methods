@@ -5,7 +5,7 @@ In this notebook, I have implemented some optimization methods from scratch that
 ### Implemented following optimization algorithms (from scratch):
 - <Strong>Mini-Batch Gradient descent</strong>
 - <Strong>Momentum</strong> (Momentum takes into account the past gradients to smooth out the update. Using momentum can reduce these oscillations)
-- <Strong>Adam (Adaptive Moment Estimation)</strong> (Adam is one of the most effective optimization algorithms for training neural networks. It combines ideas from RMSProp (described in lecture) and Momentum)
+- <Strong>Adam (Adaptive Moment Estimation)</strong> (Adam is one of the most effective optimization algorithms for training neural networks. It combines ideas from RMSProp and Momentum)
 
 I have used sklearn in-built "moons" dataset to test the above optimization methods.
 
